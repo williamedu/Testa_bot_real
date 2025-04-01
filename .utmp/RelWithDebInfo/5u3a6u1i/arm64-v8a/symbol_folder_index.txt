@@ -1,0 +1,1 @@
+C:\Users\willi\telegram_Bot\Telegram_Bot\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\5u3a6u1i\obj\arm64-v8a

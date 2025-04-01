@@ -1,0 +1,8 @@
+C:/Users/willi/telegram_Bot/Telegram_Bot/.utmp/RelWithDebInfo/5u3a6u1i/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/willi/telegram_Bot/Telegram_Bot/.utmp/RelWithDebInfo/5u3a6u1i/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/willi/telegram_Bot/Telegram_Bot/.utmp/RelWithDebInfo/5u3a6u1i/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/willi/telegram_Bot/Telegram_Bot/.utmp/RelWithDebInfo/5u3a6u1i/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/willi/telegram_Bot/Telegram_Bot/.utmp/RelWithDebInfo/5u3a6u1i/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Users/willi/telegram_Bot/Telegram_Bot/.utmp/RelWithDebInfo/5u3a6u1i/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/willi/telegram_Bot/Telegram_Bot/.utmp/RelWithDebInfo/5u3a6u1i/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/willi/telegram_Bot/Telegram_Bot/.utmp/RelWithDebInfo/5u3a6u1i/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

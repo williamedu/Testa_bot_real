@@ -1,0 +1,12 @@
+# ninja log v5
+27	135	7647389095802855	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	5531f34ab66f4d83
+136	250	7647389097013495	C:/Users/willi/telegram_Bot/Telegram_Bot/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5u3a6u1i/obj/armeabi-v7a/libswappywrapper.so	66778762f026d9b6
+13	636	7647389100813619	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	920ae8f25f9f2ae2
+20	659	7647389101045419	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	ef15f951d392b9bf
+7	688	7647389101370413	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	292b939cfc067da0
+16	694	7647389101425811	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	550da3c740621839
+23	768	7647389102160068	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b28f91c6ce5feadb
+1	787	7647389102342740	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	7b7a316caff26861
+10	896	7647389103443095	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	9db65a200682938c
+4	1037	7647389104799672	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	597883a2a1bf6a1
+1037	1113	7647389105669975	C:/Users/willi/telegram_Bot/Telegram_Bot/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5u3a6u1i/obj/armeabi-v7a/libgame.so	b9f8e5e67317f19b
